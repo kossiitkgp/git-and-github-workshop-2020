@@ -58,5 +58,15 @@
 
   Video tutorial: https://www.youtube.com/watch?v=2NxsjFtGjBA
     
+# LINKING/CONFIGURING GIT AND GITHUB
+  Once the installation has successfully completed, the next thing to do is to set up the configuration details of the GitHub user. To do this use the following two commands by replacing "user_name" with your GitHub username and replacing "email_id" with your email-id you used to create your GitHub account.
+
+
+ 
+        git config --global user.name "user_name"
+        git config --global user.email "email_id"
+  The following image shows an example of my configuration with my "user_name" being "akshaypai" and my "email_id" being "abc123@gmail.com"
+  
+   ![Image of CONFIG CONSOLE](https://www.howtoforge.com/images/ubuntu_github_getting_started/config.png?ezimgfmt=rs:550x104/rscb1/ng:webp/ngcb1)
 #### Now you are ready for the workshop!!🚀🚀
 #### See you in session...👩‍💻👨‍💻
