@@ -1,5 +1,5 @@
 function add_two_numbers(a,b) {
-    const sum = a - b
+    const sum = a + b
     console.log(sum)
 }
 
