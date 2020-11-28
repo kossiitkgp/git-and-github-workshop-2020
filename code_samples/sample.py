@@ -5,6 +5,7 @@ def add_two_numbers(a,b):
     Args:
         a,b : two real numbers
     '''
+    sum = a - b
     sum = a + b
     print(sum)
 
