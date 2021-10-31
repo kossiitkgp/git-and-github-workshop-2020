@@ -2,7 +2,7 @@
 
 int add_two_numbers(a,b) {
     int sum;
-    sum = a + b;
+    sum = a + b+ 0;
     printf("%d", sum);
 }
 
